@@ -1,0 +1,6 @@
+{
+  "name": "Simulasi Interaktif Pewarisan Sifat (Genetika)",
+  "description": "Laboratorium Virtual & Simulasi Interaktif Pewarisan Sifat Genetika Biologi SMA dengan Modul Pembelajaran, LKPD Digital, dan Analisis Real-Time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
